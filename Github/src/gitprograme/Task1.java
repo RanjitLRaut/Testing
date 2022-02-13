@@ -19,6 +19,10 @@ public class Task1
 	{
           System.out.println("Hello fifth code");
 	}
+	public void m6()
+	{
+          System.out.println("Hello fifth code");
+	}
 	
 public static void main(String[] args) 
 {
