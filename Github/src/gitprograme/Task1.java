@@ -27,7 +27,10 @@ public class Task1
 	{
           System.out.println("Hello fifth code");
 	}
-	
+	public void m8()
+	{
+          System.out.println("Hello fifth code");
+	}
 public static void main(String[] args) 
 {
 	System.out.println("Hello main");
