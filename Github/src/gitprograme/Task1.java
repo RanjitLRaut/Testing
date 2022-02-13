@@ -23,6 +23,10 @@ public class Task1
 	{
           System.out.println("Hello fifth code");
 	}
+	public void m7()
+	{
+          System.out.println("Hello fifth code");
+	}
 	
 public static void main(String[] args) 
 {
