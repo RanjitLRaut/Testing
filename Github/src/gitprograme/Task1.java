@@ -9,7 +9,11 @@ public class Task1
 	}
 	public void m2()
 	{
-		system.out.println("Second code");
+		System.out.println("Second code");
+	}
+	public void m3()
+	{
+          System.out.println("Hello third Code");
 	}
 	
 public static void main(String[] args) 
